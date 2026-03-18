@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Electiricity Billing System:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Electiricity_Billing_System_jar2</output-path>
+    <root id="archive" name="Electiricity Billing System.jar">
+      <element id="module-output" name="Electiricity Billing System" />
+      <element id="library" level="project" name="rs2xml" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-java-8.0.28 (2).jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ResultSet2xml.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
